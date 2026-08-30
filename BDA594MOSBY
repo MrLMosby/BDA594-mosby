@@ -1,6 +1,7 @@
 git config --global lmosby7143@sdsu.edu
 git config -- global BDA594-mosby
 git remote add origin https://github.com/MrLMosby/BDA594-mosby.git
+git push -u origin master
 git branch -M main
 git push -u origin main
 git checkout -b ming-new-branch
