@@ -3,8 +3,4 @@
 
 ## [BDA594 Class](https://sdsu.instructure.com/courses/213445)
 ### I define Big Data as gathering an enormous amount of information to sort and find patterns so the users can understand and decide the best course of action.
-<style>
-body {
-bacmground-color: #F5F5DC;
-}
-</style>
+
